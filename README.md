@@ -15,5 +15,5 @@
 
 ##Language and Tools 
 
-<img width="100" height="100" alt="image" src="https://github.com/user-attachments/assets/30cc567a-d41c-4970-afaf-689191e25958" />
+<img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/30cc567a-d41c-4970-afaf-689191e25958" <a href="https://github.com/ikenna-oluigbo/" </a> />
 
