@@ -15,5 +15,5 @@
 
 ## Language and Tools 
 
-<img width="30" height="30" alt="image" href="https://aws.amazon.com/" />
+<img width="30" height="30" alt="image" href="https://aws.amazon.com/"  src="https://github.com/user-attachments/assets/30cc567a-d41c-4970-afaf-689191e25958" />
 
