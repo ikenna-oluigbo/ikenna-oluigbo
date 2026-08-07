@@ -13,7 +13,7 @@
 - 😄 Pronouns: **Only my name is Fine**
 - ⚡ Fun fact: **Convert anything to numbers, and find patterns in the numbers**
 
-##Language and Tools 
+## Language and Tools 
 
-<img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/30cc567a-d41c-4970-afaf-689191e25958" href="https://github.com/ikenna-oluigbo/" />
+<img width="20" height="20" alt="image" href="https://aws.amazon.com/" src="https://github.com/user-attachments/assets/30cc567a-d41c-4970-afaf-689191e25958" />
 
