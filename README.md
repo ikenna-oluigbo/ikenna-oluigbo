@@ -15,5 +15,5 @@
 
 ##Language and Tools 
 
-<img width="500" height="500" alt="image" src="https://github.com/user-attachments/assets/30cc567a-d41c-4970-afaf-689191e25958" />
+<img width="100" height="100" alt="image" src="https://github.com/user-attachments/assets/30cc567a-d41c-4970-afaf-689191e25958" />
 
