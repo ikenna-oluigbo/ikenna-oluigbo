@@ -1,4 +1,4 @@
-![Header](./ikennaheader.png)
+![Header](./images/ikennaheader.png)
 
 <!--
 **ikenna-oluigbo/ikenna-oluigbo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
