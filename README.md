@@ -5,6 +5,8 @@
 
 #Here are some ideas to get you started:  -->
 
+![Profile views](https://gpvc.arturio.dev/ikenna-oluigbo)   
+
 - 🔭 I’m currently working on **AI Agents and RAG Integrated LLMs**
 - 🌱 I’m currently learning **Multi-agent delegation and AI Governance**
 - 👯 I’m looking to collaborate on **AI agents and LLM projects**
