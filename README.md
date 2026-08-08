@@ -10,8 +10,8 @@
 - 👯 I’m looking to collaborate on **AI agents and LLM projects**
 - 💬 Ask me about **Machine Learning, AI, Computer Vision, NLP, Data Science, and Knowledge Graphs**
 - 📫 How to reach me: **ikenna.oluigbo@gmail.com**
-- 😄 Pronouns: **Only my name is Fine**
-- ⚡ Fun fact: **Convert anything to numbers, and find patterns in the numbers**
+- 😄 Pronouns: **Just my name is fine**
+- ⚡ Fun fact: **Convert anything to numbers, and find patterns in those numbers**
 
 ## Language and Tools 
 
