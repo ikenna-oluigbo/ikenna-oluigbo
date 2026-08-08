@@ -18,5 +18,10 @@
 <a href="https://aws.amazon.com/">
   <img src="./images/aws.jpg" alt="AWS Logo" width="40">
 </a>
-
+<a href="https://docker.com/">
+  <img src="./images/docker.png" alt="Docker Logo" width="40">
+</a>
+<a href="https://flask.palletsprojects.com/en/stable/">
+  <img src="./images/flask.png" alt="Flask Logo" width="40">
+</a>
 
