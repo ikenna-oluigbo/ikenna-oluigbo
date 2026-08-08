@@ -5,7 +5,7 @@
 
 #Here are some ideas to get you started:  -->
 
-![Profile views](https://gpvc.arturio.dev/ikenna-oluigbo)   
+![Visitor Count](https://profile-counter.glitch.me/{ikenna-oluigbo}/count.svg)      
 
 - 🔭 I’m currently working on **AI Agents and RAG Integrated LLMs**
 - 🌱 I’m currently learning **Multi-agent delegation and AI Governance**
