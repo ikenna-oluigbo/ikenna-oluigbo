@@ -15,6 +15,9 @@
 
 ## Language and Tools 
 
+<a href="https://aws.amazon.com/">
+  <img src="./images/aws.jpg" alt="AWS Logo" width="30">
+</a>
 [![AWS Logo](./images/aws.jpg)](https://aws.amazon.com/)
 <img width="30" height="30" alt="image" href="https://aws.amazon.com/"  src="https://github.com/user-attachments/assets/30cc567a-d41c-4970-afaf-689191e25958" />
 
