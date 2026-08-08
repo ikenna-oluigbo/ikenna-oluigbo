@@ -5,7 +5,7 @@
 
 #Here are some ideas to get you started:  -->
 
-![Visitor Count](https://profile-counter.glitch.me/{ikenna-oluigbo}/count.svg)      
+![](https://komarev.com/ghpvc/?username=ikenna-oluigbo&color=red)     
 
 - 🔭 I’m currently working on **AI Agents and RAG Integrated LLMs**
 - 🌱 I’m currently learning **Multi-agent delegation and AI Governance**
