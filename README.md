@@ -24,4 +24,49 @@
 <a href="https://flask.palletsprojects.com/en/stable/">
   <img src="./images/flask.png" alt="Flask Logo" width="40">
 </a>
+<a href="https://gemini.google.com/">
+  <img src="./images/gemini.png" alt="Gemini Logo" width="40">
+</a>
+<a href="https://go.dev/">
+  <img src="./images/golang.png" alt="GO Logo" width="40">
+</a>
+<a href="https://jupyter.org/">
+  <img src="./images/jupyter.png" alt="Jupyter Logo" width="40">
+</a>
+<a href="https://www.langchain.com/">
+  <img src="./images/langchain.png" alt="Langchain Logo" width="40">
+</a>
+<a href="https://ollama.com/">
+  <img src="./images/ollama.png" alt="Ollama Logo" width="40">
+</a>
+<a href="https://openai.com/">
+  <img src="./images/openai.png" alt="Openai Logo" width="40">
+</a>
+<a href="https://opencv.org/">
+  <img src="./images/opencv.png" alt="OpenCV Logo" width="40">
+</a>
+<a href="https://www.postgresql.org/">
+  <img src="./images/postgresql.png" alt="Postgresql Logo" width="40">
+</a>
+<a href="https://www.python.org/">
+  <img src="./images/python.png" alt="Python Logo" width="40">
+</a>
+<a href="https://scikit-learn.org/stable/">
+  <img src="./images/scikit.png" alt="Scikit-Learn Logo" width="40">
+</a>
+<a href="https://seaborn.pydata.org/">
+  <img src="./images/seaborn.png" alt="Seaborn Logo" width="40">
+</a>
+<a href="https://sqlite.org/">
+  <img src="./images/sqlite.png" alt="Sqlite Logo" width="40">
+</a>
+<a href="https://streamlit.io/">
+  <img src="./images/streamlit.png" alt="Streamlit Logo" width="40">
+</a>
+<a href="https://www.tensorflow.org/">
+  <img src="./images/tensorflow.png" alt="Tensorflow Logo" width="40">
+</a>
+<a href="https://code.visualstudio.com/">
+  <img src="./images/vscode.png" alt="VSCode Logo" width="40">
+</a>
 
